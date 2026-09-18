@@ -245,7 +245,7 @@ p {
   min-height: 500px;
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  background-image: url("../assets/images/Self_PFP.png");
+  background-image: url("/assets/images/Self_PFP.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -329,7 +329,7 @@ p {
 .project-media-3 { background: radial-gradient(circle at 30% 75%, rgba(240,188,98,0.2), transparent 40%), linear-gradient(135deg, #241b11, #0c1017); }
 .project-media-4 { background: radial-gradient(circle at 70% 70%, rgba(208,126,255,0.18), transparent 38%), linear-gradient(135deg, #201229, #0c1017); }
 .project-media-5 { background: radial-gradient(circle at 20% 70%, rgba(255,128,111,0.2), transparent 38%), linear-gradient(135deg, #281513, #0c1017); }
-.project-media-6 { background-image: url("../assets/images/image08.jpg"); }
+.project-media-6 { background-image: url("/assets/images/image08.jpg"); }
 
 .project-card-body {
   min-height: 240px;
